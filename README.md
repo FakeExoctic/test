@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[sex](https://cdn.discordapp.com/attachments/584997841634590729/628471884819988490/Screenshot_20190926-145850_Chrome.jpg) and ![Off to hang myself watch and lear-](https://giphy.com/gifs/tf2-UrgyWU4mEeiLJHnBoB)
+[bruh](https://cdn.discordapp.com/attachments/483468719725477898/628523277798866952/unknown.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
